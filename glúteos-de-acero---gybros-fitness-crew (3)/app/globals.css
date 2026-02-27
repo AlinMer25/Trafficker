@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-oswald: var(--font-oswald), sans-serif;
+  --font-merriweather: var(--font-merriweather), serif;
+  --font-roboto: var(--font-roboto), sans-serif;
+
+  --color-gybros-purple: #935bb0;
+  --color-gybros-gold: #eab308;
+  --color-gybros-gold-hover: #ca8a04;
+}
